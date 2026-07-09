@@ -24,5 +24,6 @@ contraste.addEventListener("click", mudarcontraste)
 
 // FUNÇÃO DO CONTRASTE
 function mudarcontraste(){
-document.body.style.color = "yellow"
+    document.body.style.backgroundColor="black"
+document.body.style.color = "red"
 }
